@@ -24,3 +24,15 @@ The simulated data closely matches the theoretical normal distribution, validati
 
 2. Run:
    python main.py
+
+# Central Limit Theorem:
+   Sample means tend toward a normal distribution as sample size increases.
+
+2. Sampling Distribution:
+   Distribution of sample means.
+
+3. Effect of Sample Size:
+   Larger sample size → better approximation to normal.
+
+4. Independence:
+   Samples must be independent.
