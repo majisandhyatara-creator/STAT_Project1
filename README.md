@@ -25,14 +25,27 @@ The simulated data closely matches the theoretical normal distribution, validati
 2. Run:
    python main.py
 
-# Central Limit Theorem:
-   Sample means tend toward a normal distribution as sample size increases.
+# Central Limit Theorem Simulation
 
-2. Sampling Distribution:
-   Distribution of sample means.
+## Overview
+This project demonstrates the Central Limit Theorem using simulation.
 
-3. Effect of Sample Size:
-   Larger sample size → better approximation to normal.
+## Features
+- Simulation of Uniform and Exponential distributions
+- Sampling and computation of sample means
+- Visualization using histograms
 
-4. Independence:
-   Samples must be independent.
+## Technologies Used
+- Python
+- NumPy
+- Matplotlib
+
+## Results
+The distribution of sample means approaches normal distribution, validating the Central Limit Theorem.
+
+## How to Run
+1. Install dependencies:
+   pip install numpy matplotlib
+
+2. Run:
+   python main.py
